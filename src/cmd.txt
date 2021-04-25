@@ -1,0 +1,11 @@
+    Open a terminal:
+        python Server.py 12345 -u
+
+    Open another terminal:
+        python ClientLauncher.py 127.0.0.1 2020 5008 movie.Mjpeg
+    14.226.228.106
+
+    python ClientLauncher.py 192.168.43.80 12345 5008
+
+    192.168.100.200
+    python ClientLauncher.py 10.128.157.72 12345 5008
